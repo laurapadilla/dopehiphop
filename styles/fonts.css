@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Terminal;
+  src: url(/fonts/terminal-grotesque-webfont.woff2);
+}
+
+@font-face {
+  font-family: Terminal Open;
+  src: url(/fonts/terminal-grotesque_open.otf);
+}
+
+@font-face {
+  font-family: Savate;
+  src: url(/fonts/savate-regular-webfont.woff2);
+}
+
+@font-face {
+  font-family: Savate;
+  src: url(/fonts/savate-italique-webfont.woff2);
+  font-style: italic;
+}
