@@ -2,7 +2,7 @@ let font;
 let graphic;
 
 function preload() {
-  font = loadFont("/fonts/Inter-SemiBold.otf");
+  font = loadFont("fonts/Inter-SemiBold.otf");
 }
 
 function setup() {
