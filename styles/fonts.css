@@ -10,11 +10,11 @@
 
 @font-face {
   font-family: Savate;
-  src: url(/fonts/savate-regular-webfont.woff2);
+  src: url(/fonts/savate-regular-webfont.woff);
 }
 
 @font-face {
   font-family: Savate;
-  src: url(/fonts/savate-italique-webfont.woff2);
+  src: url(/fonts/savate-italique-webfont.woff);
   font-style: italic;
 }
