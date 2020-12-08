@@ -1,5 +1,5 @@
 body {
-  font-family: Lunchtype Regular;
+  font-family: "Lunchtype Regular";
   font-weight: 400;
   font-size: 16px;
   color: black;
@@ -44,7 +44,7 @@ header nav a {
 }
 
 header nav a:hover::after {
-  content:  '→';
+  content: "→";
   vertical-align: middle;
 }
 
@@ -60,7 +60,7 @@ header nav a:hover::after {
 
 h2,
 h3 {
-  font-family: Helvetica Neue;
+  font-family: "Helvetica Neue";
 }
 
 .about-modal {
@@ -118,7 +118,7 @@ section.artists {
 }
 
 .artist:hover {
-  cursor: url('help.svg'), auto;
+  cursor: url("images/help.svg"), auto;
 }
 
 .details {
@@ -249,7 +249,7 @@ section.artists {
   .about-modal {
     width: 100%;
   }
-  
+
   header nav {
     display: block;
     margin-top: 1rem;
