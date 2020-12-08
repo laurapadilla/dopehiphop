@@ -1,9 +1,9 @@
 @font-face {
   font-family: "Lunchtype Medium";
-  src: url(fonts/lunchtype24-medium-expanded-webfont.woff2);
+  src: url(/fonts/lunchtype24-medium-expanded-webfont.woff2);
 }
 
 @font-face {
   font-family: "Lunchtype Regular";
-  src: url(fonts/Lunchtype24-Regular-Expanded.ttf);
+  src: url(/fonts/Lunchtype24-Regular-Expanded.ttf);
 }
