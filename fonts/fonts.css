@@ -1,20 +1,9 @@
 @font-face {
-  font-family: Terminal;
-  src: url(./terminal-grotesque-webfont.woff);
+  font-family: "Lunchtype Medium";
+  src: url(lunchtype24-medium-expanded-webfont.woff2);
 }
 
 @font-face {
-  font-family: Terminal Open;
-  src: url(./terminal-grotesque_open.otf);
-}
-
-@font-face {
-  font-family: Savate;
-  src: url(./savate-regular-webfont.woff);
-}
-
-@font-face {
-  font-family: Savate;
-  src: url(./savate-italique-webfont.woff);
-  font-style: italic;
+  font-family: "Lunchtype Regular";
+  src: url(lunchtype24-regular-expanded.ttf);
 }
